@@ -26,10 +26,3 @@ This repository showcases my completed notebooks from the Interview Master’s P
 These challenges are provided by Interview Master, a platform designed to help you prepare for Data Science and Analytics interviews. Learn more at [interviewmaster.ai](https://interviewmaster.ai).
 
 ```
-
-### What it will look like:
-- **Python Interview Master**: This will display a badge with the name *Python Interview Master* in Dark Green, with a Python logo.
-- **DataCamp**: This will display a badge with the name *DataCamp* in a teal color, with the DataCamp logo.
-
-You can adjust the badges' style and color if you'd like. Just replace the badge URL with a different one from a badge service like [Shields.io](https://shields.io/).
-```
