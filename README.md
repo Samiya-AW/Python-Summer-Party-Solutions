@@ -1,3 +1,6 @@
+![Python Interview Master](https://img.shields.io/badge/Python_Interview_Master-DarkGreen?style=flat&logo=python&logoColor=white) 
+![DataCamp](https://img.shields.io/badge/DataCamp-32A4A6?style=flat&logo=datacamp&logoColor=white)
+
 # Python Summer Party Notebooks
 
 This repository contains my completed notebooks from Interview Master's Python Summer Party challenge. It's intended for recruiters, peers, and learners to review my approach to data analysis problems using pandas and numpy.
