@@ -17,7 +17,7 @@ This repository showcases my completed notebooks from the Interview Master’s P
 2. Install dependencies:
    ```bash
    pip install jupyterlab pandas numpy
-````
+   ````
 
 3. Launch Jupyter Lab or Notebook and open any `day-XX.ipynb` file.
 
